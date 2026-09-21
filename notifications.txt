@@ -1,2 +1,3 @@
 Event Notifications
 Students will receive registration confirmations.
+Organizers will receive event reminders.
