@@ -1,1 +1,2 @@
 Event Notifications
+Students will receive registration confirmations.
